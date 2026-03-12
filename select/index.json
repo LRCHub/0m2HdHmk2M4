@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "幽霊船",
+  "base_artist": "影ぼう",
+  "createdAt": "2026-03-12T16:06:25.766612Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "幽霊船",
+      "artist": "tricot",
+      "has_synced": true,
+      "path": "select/01_幽霊船_tricot.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幽霊船",
+      "artist": "影ぼう",
+      "has_synced": false,
+      "path": "select/pl_01_幽霊船_影ぼう.txt"
+    }
+  ]
+}
